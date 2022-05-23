@@ -10,8 +10,11 @@
 <div> 
  
   <a href="linkedin.com/in/eduardo-caetano-nogueira-braz-9b2ab9214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
   
+ <img height="180em" src=https://i.pinimg.com/originals/2f/c1/b8/2fc1b8f82e14172e3bcae39ca8c8ab33.gif>
+
  
 </div>
+
 
