@@ -10,6 +10,8 @@
   <img align="center" alt="Dudu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dudu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Dudu-PHP" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Dudu-Dart" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  />
+  <img align="center" alt="Dudu-Flutter" height="35" width="45"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  />
     </div>
     
 <div> 
